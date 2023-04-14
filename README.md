@@ -5,6 +5,40 @@ A Food Delivery app project build with Flutter for both iOS and Android Devices.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/93969890/232158497-6792664b-6d2b-4028-b573-41f3a071dd90.png" width="27.3%">
 </p>
+
+
+
+This app is a restaurant recommendation app that allows you to:
+* search for restaurants by city in a list view or map view,
+* see the restaurant menu,
+* order their special,
+* create a favorite restaurants list, and
+* update your profile picture.
+* displays push notifications when you sign in or place an order.
+
+<p align="center">
+
+
+ <img src="https://user-images.githubusercontent.com/93969890/232159804-b055890b-a4e3-416d-8636-4392e28d102c.png" width="25%">
+  <img src="https://user-images.githubusercontent.com/93969890/232159896-fdad6ac5-8bff-4907-b8e1-081fc71489ab.png" width="25%">
+   <img src="https://user-images.githubusercontent.com/93969890/232160029-96374b5d-e910-4f86-b550-b3079986ccb2.png" width="25%">
+</p>
+
+### Tools & Skills Used for this Project
+* Flutter and Dart
+* Android and iOS simulators
+* GetX for State Management
+* styled-components
+* Lottie for animations
+* Debugging & performance optimization
+* Laravel to build backend to store restaurant information
+* Routes is used.
+
+### APIs
+* Firebase to store user information & manage authentication
+* Stripe to process payments
+* Google Cloud for maps and restaurant information
+
 ## State Manager
 
 This project used the GetX state manager for managing state in the app.
