@@ -3,7 +3,7 @@
 A Food Delivery app project build with Flutter for both iOS and Android Devices. In this app you can see the list of products on the app and select a product to view its details,A user can add their product to favourites, A user can add products to cart and place their order. You can view all your orders in my orders  section with details of the orders shown such as the items, the total amount and date and time the order was placed.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/93969890/232157591-f10215ea-8503-4774-8a7d-925418946613.png" width="47.3%">
+ <img src="https://user-images.githubusercontent.com/93969890/232158497-6792664b-6d2b-4028-b573-41f3a071dd90.png" width="47.3%">
 </p>
 ## State Manager
 
