@@ -31,7 +31,6 @@ This app is a restaurant recommendation app that allows you to:
 * styled-components
 * Lottie for animations
 * Debugging & performance optimization
-* Laravel to build backend to store restaurant information
 * Routes is used.
 
 ### APIs
